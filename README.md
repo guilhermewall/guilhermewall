@@ -40,6 +40,5 @@ Aqui estão algumas das linguagens de programação, frameworks e ferramentas qu
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermewall&show_icons=true&theme=dark)
 
 
