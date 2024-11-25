@@ -1,98 +1,45 @@
-<h2>Guilherme Peixoto!</h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>full developer <a href="https://valiantgroup.com.br/">ValiantGroup</a></em></p>
+# 👋 Olá, eu sou Guilherme Peixoto
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
+## 💼 Perfil Profissional
+
+- 💻 DesenvolvedorFull Stack  
+- 🎓  Analise e Desenvolvimetno de Sistemas / FIAP]
+
+## 🚀 Habilidades
+
+Aqui estão algumas das linguagens de programação, frameworks e ferramentas que utilizo no meu dia a dia:
+
+### 👨‍💻 Linguagens:  
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,python)](https://skillicons.dev)
+
+### 🧰 Frameworks e Bibliotecas:  
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,express,django,python)](https://skillicons.dev)
+
+### 🖌️ Estilização e UI:  
+[![My Skills](https://skillicons.dev/icons?i=tailwindcss,sass,bootstrap,styledcomponents,shadcn,stitches)](https://skillicons.dev)
+
+### 🗄️ Bancos de Dados:  
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,firebase,mysql)](https://skillicons.dev)
+
+### ☁️ Cloud e DevOps:  
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker)](https://skillicons.dev)
+
+### ⚙️ Ferramentas:  
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
+
+### 🌐 Arquitetura:  
+- **Front-end**: SPA, SSR, SSG  
+- **Back-end**: Microsserviços, Monolítico, Serverless  
+- **DevOps**: CI/CD, Serverless Framework, CloudFormation  
 
 ---
-```bash
-npx
-const I = {
-    pronouns: "He" | "Him",
-    code: ["TypeScript", "JavaScript", "Python", "Dart"],
-    askMeAbout: [
-        "web dev",
-        "app dev",
-        "cloud computing",
-        "UI/UX",
-        "tech trends",
-    ],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Sass", "Tailwind", "Bootstrap"],
-            uiLibraries: ["ShadCN UI", "Material UI", "Ant Design", "Chakra UI"],
-            cssInJs: ["Styled-components", "Stitches"],
-        },
-        backEnd: {
-            js: ["Node", "Express", "NestJS"],
-            python: ["Flask"],
-        },
-        mobileApp: {
-            crossPlatform: ["React Native", "Flutter"],
-        },
-        devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
-        cloudServices: {
-            aws: ["AWS Fargate", "EC2", "S3", "Lambda", "CloudWatch", "RDS"],
-            gcp: ["Google Cloud Storage", "Cloud Run", "Firestore", "Pub/Sub"],
-        },
-        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase Realtime DB", "Redis"],
-        misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
-        generativeAI: ["GPT", "Vectorization"],
-    },
-    architecture: {
-        frontEnd: ["SPA", "SSR"],
-        backEnd: ["microservices", "monolithic", "serverless"],
-        devOps: ["CloudFormation", "Serverless Framework"],
-        databases: ["Relational", "NoSQL", "In-memory"],
-    },
-    currentFocus: "Leading a way in generative AI innovation",
-    funFact: "I can debug faster with a coffee in hand!",
-};
-```
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
-<!--START_SECTION:waka-->
+## 📫 Contato
 
+[![Linkedin Badge](https://img.shields.io/badge/-seuusuario-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seuusuario/)](https://www.linkedin.com/in/guilhermewallacep/)  
 
-📊 This Week I Spent My Time On
+---
 
-🕑 Time Zone: Asia/Dubai
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermewall&show_icons=true&theme=dark)
 
-💬 Programming Languages:
-
-TypeScript: ████████████████████████▒▒▒ (70%)
-
-
-Python: ████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ (15%)
-
-
-
-JSON: ███▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ (6%)
-
-
-JavaScript: ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ (4%)
-
-
-YAML: █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ (2%)
-
-
-Other: ██▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ (3%)
---------------------------------------------------------------------------------------------------------
-
-🌞 Morning: ████████████████████▒▒▒▒▒▒▒ (40%)
-
-
-🌆 Daytime: ███████████████████████▒▒▒▒ (50%)
-
-
-🌃 Evening: ████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ (8%)
-
-
-🌙 Night: █▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ (2%)
 
