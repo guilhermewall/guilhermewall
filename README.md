@@ -3,7 +3,7 @@
 ## 💼 Perfil Profissional
 
 - 💻 DesenvolvedorFull Stack  
-- 🎓  Analise e Desenvolvimetno de Sistemas / FIAP]
+- 🎓  Analise e Desenvolvimetno de Sistemas / FIAP
 
 ## 🚀 Habilidades
 
