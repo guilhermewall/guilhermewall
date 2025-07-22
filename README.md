@@ -2,7 +2,7 @@
 
 ## 💼 Perfil Profissional
 
-- 💻 DesenvolvedorFull Stack  
+- 💻 Desenvolvedor Full Stack  
 - 🎓  Analise e Desenvolvimetno de Sistemas / FIAP
 
 ## 🚀 Habilidades
@@ -28,7 +28,7 @@ Aqui estão algumas das linguagens de programação, frameworks e ferramentas qu
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
 ### 🌐 Arquitetura:  
-- **Front-end**: SPA, SSR, SSG  
+- **Front-end**: SPA, SSR, SSG, Micro-front-end 
 - **Back-end**: Microsserviços, Monolítico, Serverless  
 - **DevOps**: CI/CD, Serverless Framework, CloudFormation  
 
@@ -36,7 +36,7 @@ Aqui estão algumas das linguagens de programação, frameworks e ferramentas qu
 
 ## 📫 Contato
 
-[![Linkedin Badge](https://img.shields.io/badge/-seuusuario-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seuusuario/)](https://www.linkedin.com/in/guilhermewallacep/)  
+[![Linkedin Badge](https://img.shields.io/badge/-seuusuario-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seuusuario/)](https://www.linkedin.com/in/peixotomelo/)  
 
 ---
 
